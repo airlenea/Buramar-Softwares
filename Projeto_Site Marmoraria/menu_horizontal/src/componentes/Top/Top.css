@@ -1,0 +1,13 @@
+/* 
+configurações do componente Header
+*/
+.top{
+    height:8vh;
+    background-color: white;
+    border: 1 px solid darkorange;
+
+    position: relative;
+    top: 0vh;
+
+}
+

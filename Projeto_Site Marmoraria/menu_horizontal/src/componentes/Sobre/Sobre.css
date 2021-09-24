@@ -1,0 +1,34 @@
+/*
+configurações do menu principal
+*/
+.home, .sobre, .pedras, .galeria, .contato, .mais, .footer, .titulo {
+    text-align: center;
+    border: 1px solid white;
+    color: white
+    }
+    
+    .sobre {
+    height: 90vh;
+    margin-left: 0.1%; /* margem em relação ao lado esquerdo*/
+    margin-right: 0.1%;
+    margin-top: 2%
+
+    }
+
+      
+    #Casal {
+        width: 170px;
+        height: 150px;
+        position: relative;
+        top: -150px;
+        left: -480px;
+    }
+    
+    #Casal_filhos {
+        width: 270px;
+        height: 170px;
+        position: relative;
+        top: -150px;
+        left: 480px;
+    }
+    

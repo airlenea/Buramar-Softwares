@@ -1,0 +1,21 @@
+/*
+configurações do menu principal
+*/
+.home, .sobre, .pedras, .galeria, .contato, .mais, .footer, .titulo {
+    text-align: center;
+    border: 1px solid black;
+    }
+    
+    .inicio {
+    height: 90vh;
+   
+    }
+    
+    #confirmar {
+        margin: 6vh;
+    }
+
+    #logo {
+        width: 1400px;
+        height: 650px;
+    }
